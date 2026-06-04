@@ -1,5 +1,6 @@
 /* =========================
-    CSS Main Styles
+   CSS Main Styles
+   Applies to all HTML pages
    ========================= */
 
 * {
@@ -23,7 +24,10 @@ section {
   padding: 1.5rem 2rem;
 }
 
-/* Headings */
+/* =========================
+   Headings
+   Applies to all HTML pages
+   ========================= */
 
 h1 {
   color: #1f2937;
@@ -38,7 +42,9 @@ h2 {
 }
 
 /* =========================
-   Header & Navigation -- Flex used for horizontal layout
+   Header & Navigation
+   Applies to index.html, projects.html, hobbies.html
+   Flexbox used for horizontal navigation layout
    ========================= */
 
 header {
@@ -65,8 +71,6 @@ nav a:hover {
   color: #60a5fa;
 }
 
-/* Navigation Toggle Button */
-
 .nav-toggle {
   display: none;
 }
@@ -74,8 +78,10 @@ nav a:hover {
 .hamburger {
   display: block;
 }
+
 /* =========================
    Home Section
+   Applies to index.html
    ========================= */
 
 #home {
@@ -116,23 +122,25 @@ nav a:hover {
 .hero-links a:hover {
   background-color: #2563eb;
 }
+
 /* =========================
    About Section
+   Applies to index.html
    ========================= */
 
 #about {
   text-align: center;
 }
+
 #about p {
   color: #374151;
   max-width: 900px;
   margin: 1rem auto;
-
-
 }
 
 /* =========================
    Skills Section
+   Applies to index.html
    ========================= */
 
 #skills {
@@ -150,29 +158,15 @@ nav a:hover {
   width: 60px;
   height: 60px;
 }
+
 #skills p {
   color: #2563eb;
   font-weight: 600;
 }
 
 /* =========================
-   Projects Section
-   ========================= */
-
-#projects,
-#projects-page {
-  text-align: center;
-}
-
-.project-card {
-  background-color: white;
-  padding: 1.5rem;
-  margin: 1rem auto;
-  max-width: 700px;
-  border-radius: 8px;
-}
-/* =========================
-   Projects Preview
+   Projects Preview Section
+   Applies to index.html
    ========================= */
 
 #projects {
@@ -188,8 +182,6 @@ nav a:hover {
   max-width: 700px;
   margin: 1rem auto;
 }
-
-/* Projects Button */
 
 .project-button {
   display: inline-block;
@@ -207,7 +199,25 @@ nav a:hover {
 }
 
 /* =========================
-   Hobbies Section
+   Projects Page
+   Applies to projects.html
+   ========================= */
+
+#projects-page {
+  text-align: center;
+}
+
+.project-card {
+  background-color: white;
+  padding: 1.5rem;
+  margin: 1rem auto;
+  max-width: 700px;
+  border-radius: 8px;
+}
+
+/* =========================
+   Hobbies Page
+   Applies to hobbies.html
    ========================= */
 
 #hobbies {
@@ -216,6 +226,7 @@ nav a:hover {
 
 /* =========================
    Footer
+   Applies to index.html, projects.html, hobbies.html
    ========================= */
 
 footer {
