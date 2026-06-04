@@ -1,0 +1,25 @@
+{
+  "name": "my_personal_home_page",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Personal portfolio website built with HTML5, CSS3, and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShorenaK/my_personal_home_page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShorenaK/my_personal_home_page/issues"
+  },
+  "homepage": "https://github.com/ShorenaK/my_personal_home_page#readme",
+  "devDependencies": {
+    "eslint": "^10.4.1",
+    "prettier": "^3.8.3"
+  }
+}

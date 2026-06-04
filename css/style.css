@@ -80,8 +80,7 @@ nav a:hover {
 }
 
 /* =========================
-   Home Section
-   Applies to index.html
+   Home Section - index.html
    ========================= */
 
 #home {
@@ -124,8 +123,7 @@ nav a:hover {
 }
 
 /* =========================
-   About Section
-   Applies to index.html
+   About Section - index.html
    ========================= */
 
 #about {
@@ -139,8 +137,7 @@ nav a:hover {
 }
 
 /* =========================
-   Skills Section
-   Applies to index.html
+   Skills Section - index.html
    ========================= */
 
 #skills {
@@ -165,8 +162,8 @@ nav a:hover {
 }
 
 /* =========================
-   Projects Preview Section
-   Applies to index.html
+   Projects Preview Secction 
+   index.html
    ========================= */
 
 #projects {
@@ -199,8 +196,7 @@ nav a:hover {
 }
 
 /* =========================
-   Projects Page
-   Applies to projects.html
+   Projects Page -- projects.html
    ========================= */
 
 #projects-page {
@@ -238,14 +234,7 @@ nav a:hover {
 
 /* =========================
    Hobbies Page
-   Applies to hobbies.html
    ========================= */
-
-/* =========================
-   Hobbies Page
-   Applies to hobbies.html
-   ========================= */
-
 #hobbies {
   text-align: center;
   max-width: 1000px;
@@ -278,7 +267,7 @@ nav a:hover {
 
 /* =========================
    Footer
-   Applies to index.html, projects.html, hobbies.html
+   index.html, projects.html, hobbies.html
    ========================= */
 
 footer {
