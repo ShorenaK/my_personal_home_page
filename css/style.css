@@ -20,7 +20,7 @@ img {
 }
 
 section {
-  padding: 4rem 2rem;
+  padding: 1.5rem 2rem;
 }
 
 /* =========================
@@ -101,4 +101,71 @@ nav a:hover {
 
 .hero-links a:hover {
   background-color: #2563eb;
+}
+/* =========================
+   About Section
+   ========================= */
+
+#about {
+  text-align: center;
+}
+
+/* =========================
+   Skills Section
+   ========================= */
+
+#skills {
+  text-align: center;
+}
+
+.skills-icons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.skills-icons img {
+  width: 60px;
+  height: 60px;
+}
+
+/* =========================
+   Projects Section
+   ========================= */
+
+#projects,
+#projects-page {
+  text-align: center;
+}
+
+.project-card {
+  background-color: white;
+  padding: 1.5rem;
+  margin: 1rem auto;
+  max-width: 700px;
+  border-radius: 8px;
+}
+
+/* =========================
+   Hobbies Section
+   ========================= */
+
+#hobbies {
+  text-align: center;
+}
+
+/* =========================
+   Footer
+   ========================= */
+
+footer {
+  background-color: #1f2937;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+footer a {
+  color: #60a5fa;
 }
