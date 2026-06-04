@@ -14,3 +14,19 @@ navLinks.forEach((link) => {
     nav.classList.remove('nav-open');
   });
 });
+
+// Rotaiont of titles on home page
+const titleText = document.querySelector('#home p');
+
+const titles = [
+  'AWS Cloud Support Engineer',
+  'Software Engineer',
+  'Continuous Learner',
+];
+
+let currentIndex = 0;
+
+setInterval(() => {
+  currentIndex = (currentIndex + 1) % titles.length;
+  titleText.textContent = titles[currentIndex];
+}, 3000);

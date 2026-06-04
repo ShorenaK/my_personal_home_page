@@ -291,3 +291,64 @@ footer {
 footer a {
   color: #60a5fa;
 }
+
+/* =========================
+   JavaScript + Responsive Design
+   ========================= */
+
+/* Hamburger button hidden on desktop */
+.nav-toggle {
+  display: none;
+}
+
+/* Mobile styles */
+@media (max-width: 768px) {
+  .nav-toggle {
+    display: block;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    margin-left: auto;
+  }
+
+  .hamburger {
+    display: block;
+    width: 30px;
+    height: 3px;
+    background-color: white;
+    position: relative;
+  }
+
+  .hamburger::before,
+  .hamburger::after {
+    content: '';
+    position: absolute;
+    width: 30px;
+    height: 3px;
+    background-color: white;
+    left: 0;
+  }
+
+  .hamburger::before {
+    top: -8px;
+  }
+
+  .hamburger::after {
+    top: 8px;
+  }
+
+  nav {
+    display: none;
+  }
+
+  nav.nav-open {
+    display: block;
+  }
+
+  nav ul {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding-top: 1rem;
+  }
+}
