@@ -171,7 +171,40 @@ nav a:hover {
   max-width: 700px;
   border-radius: 8px;
 }
+/* =========================
+   Projects Preview
+   ========================= */
 
+#projects {
+  text-align: center;
+  background-color: #f8fafc;
+  border-radius: 10px;
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+#projects p {
+  max-width: 700px;
+  margin: 1rem auto;
+}
+
+/* Projects Button */
+
+.project-button {
+  display: inline-block;
+  text-decoration: none;
+  background-color: #1f2937;
+  color: white;
+  padding: 0.75rem 1rem;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-top: 1rem;
+}
+
+.project-button:hover {
+  background-color: #2563eb;
+}
 
 /* =========================
    Hobbies Section
