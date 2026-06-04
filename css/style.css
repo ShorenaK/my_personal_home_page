@@ -23,14 +23,6 @@ section {
   padding: 1.5rem 2rem;
 }
 
-/* =========================
-   Header & Navigation -- Flex used for horizontal layout
-   ========================= */
-
-header {
-  background-color: #1f2937;
-  padding: 1rem 2rem;
-}
 /* Headings */
 
 h1 {
@@ -43,6 +35,15 @@ h2 {
   color: #2563eb;
   font-size: 2rem;
   font-weight: 700;
+}
+
+/* =========================
+   Header & Navigation -- Flex used for horizontal layout
+   ========================= */
+
+header {
+  background-color: #1f2937;
+  padding: 1rem 2rem;
 }
 
 nav ul {
@@ -170,6 +171,7 @@ nav a:hover {
   max-width: 700px;
   border-radius: 8px;
 }
+
 
 /* =========================
    Hobbies Section
