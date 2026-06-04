@@ -125,6 +125,7 @@ nav a:hover {
 #about p {
   color: #374151;
   max-width: 900px;
+  margin: 1rem auto;
 
 
 }
