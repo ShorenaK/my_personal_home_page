@@ -8,57 +8,57 @@ The website was designed with simplicity, readability, and accessibility in mind
 
 **The primary audience for this website includes:**
 
-- [ ] Recruiters and hiring managers  
-- [ ] Software engineering professionals  
-- [ ] Cloud computing professionals  
-- [ ] Potential employers  
+- [ ] Recruiters and hiring managers
+- [ ] Software engineering professionals
+- [ ] Cloud computing professionals
+- [ ] Potential employers
 - [ ] Academic instructors and peers
 
 **The website consists of three pages:**
 
-### **Home Page  \- index.html**
+### **Home Page \- index.html**
 
 The home page contains:
 
-- [ ] Professional profile image  
-- [ ] Name and professional title  
-- [ ] Resume, GitHub, and LinkedIn links  
-- [ ] About Me section  
-- [ ] Skills section  
-- [ ] Projects preview section  
+- [ ] Professional profile image
+- [ ] Name and professional title
+- [ ] Resume, GitHub, and LinkedIn links
+- [ ] About Me section
+- [ ] Skills section
+- [ ] Projects preview section
 - [ ] Footer
 
 ### **Projects Page \- projects.html**
 
 The projects page highlights technical projects and includes:
 
-- [ ] Project screenshots  
-- [ ] Project descriptions  
-- [ ] Technologies used  
+- [ ] Project screenshots
+- [ ] Project descriptions
+- [ ] Technologies used
 - [ ] GitHub repository links
 
 Featured projects include:
 
-- [ ] BlackJack AWS  
-- [ ] AWS Serverless Chat Web App  
+- [ ] BlackJack AWS
+- [ ] AWS Serverless Chat Web App
 - [ ] FlashCards Probability
 
 ### **Hobbies Page \- hobbies.html**
 
 ### The hobbies page highlights personal interests outside of technology, including:
 
-- [ ] Travel and outdoor activities  
-- [ ] Technology and innovation events  
+- [ ] Travel and outdoor activities
+- [ ] Technology and innovation events
 - [ ] Continuous learning and language development
 
 ## **Design Decisions**
 
 The website uses a clean and modern layout with a consistent navigation structure across all pages.
 
-- [ ] Responsive layout using Flexbox  
-- [ ] Consistent color palette using dark blue and light gray tones  
-- [ ] Clear visual hierarchy through headings and spacing  
-- [ ] Project cards to separate project content  
+- [ ] Responsive layout using Flexbox
+- [ ] Consistent color palette using dark blue and light gray tones
+- [ ] Clear visual hierarchy through headings and spacing
+- [ ] Project cards to separate project content
 - [ ] Simple navigation for ease of use
 
 ## **Technologies Used:**
@@ -67,36 +67,36 @@ The website uses a clean and modern layout with a consistent navigation structur
 
 - ### **Development Tools:** Visual Studio Code, Git, GitHub, ESLint, Prettier, [Node.js](http://Node.js), and npm.
 
-## 
+##
 
 ## **Accessibility Considerations:**
 
 The website includes several accessibility features:
 
-- [ ] Semantic HTML elements  
-- [ ] Descriptive alt text for images  
-- [ ] Clear heading hierarchy  
-- [ ] Readable color contrast  
+- [ ] Semantic HTML elements
+- [ ] Descriptive alt text for images
+- [ ] Clear heading hierarchy
+- [ ] Readable color contrast
 - [ ] Keyboard-accessible navigation links
 
 ## **Challenges:**
 
 Several challenges were encountered during development:
 
-- [ ] Organizing content across multiple pages  
-- [ ] Creating a consistent design across the website  
-- [ ] Structuring project information in a readable format  
-- [ ] Configuring ESLint and project tooling  
+- [ ] Organizing content across multiple pages
+- [ ] Creating a consistent design across the website
+- [ ] Structuring project information in a readable format
+- [ ] Configuring ESLint and project tooling
 - [ ] Implementing responsive design and navigation
 
 ## **Future Improvements:**
 
-- [ ] Additional JavaScript interactivity  
-- [ ] Expanded project portfolio  
-- [ ] Contact form integration  
-- [ ] AWS-hosted deployment  
-- [ ] Additional cloud computing project demonstrations  
-- [ ] Dark mode support  
+- [ ] Additional JavaScript interactivity
+- [ ] Expanded project portfolio
+- [ ] Contact form integration
+- [ ] AWS-hosted deployment
+- [ ] Additional cloud computing project demonstrations
+- [ ] Dark mode support
 - [ ] Enhanced mobile navigation
 
 ## **Conclusion**
@@ -105,7 +105,7 @@ The website successfully presents professional experience, technical projects, a
 
 **User Personas**
 
-### **Persona 1: Technical Recruiter \- Rachel** 
+### **Persona 1: Technical Recruiter \- Rachel**
 
 Rachel is a technical recruiter looking for candidates with cloud computing and software engineering experience. She wants to quickly understand a candidate's background, technical skills, and project experience. Rachel uses the portfolio to review professional qualifications and access GitHub and LinkedIn profiles.
 
@@ -135,7 +135,7 @@ As a visitor, I want to easily navigate between pages so that I can learn more a
 
 As a fellow student, I want to view examples of portfolio design and organization so that I can gain inspiration for creating my own website.
 
-**Design Mockups &  Wireframes**
+**Design Mockups & Wireframes**
 
 The website layout was planned using wireframe sketches before development.  
 The wireframes illustrate the structure of the Home, Projects, and Hobbies  
@@ -144,9 +144,6 @@ pages
 ![Drawings & Wireframe](/images/wireFrame_1.png)
 
 ![Drawings & Wireframe](/images/wireFrame_2.png)
-
-
-
 
 # Validation & Code Quality
 
@@ -159,8 +156,7 @@ using Prettier to maintain code quality and consistency.
 
 ## Validation Results
 
-All HTML pages: 
-
+### All HTML pages:
 
 ![Drawings & Wireframe](/images/validation-check_1.png)
 
@@ -168,8 +164,13 @@ All HTML pages:
 
 ![Drawings & Wireframe](/images/validation-check_3.png)
 
-
-Main.js 
+### Main.js
 
 ![Drawings & Wireframe](/images/validation-check_js.png)
 
+### Ran Prettier Commands
+
+npx prettier --write .
+npx prettier --check .
+
+![Drawings & Wireframe](/images/validation-check_prettier.png)
