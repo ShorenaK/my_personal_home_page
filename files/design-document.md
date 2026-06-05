@@ -144,3 +144,32 @@ pages
 ![Drawings & Wireframe](/images/wireFrame_1.png)
 
 ![Drawings & Wireframe](/images/wireFrame_2.png)
+
+
+
+
+# Validation & Code Quality
+
+The website was validated using the W3C HTML Validator.
+All HTML pages (index.html, projects.html, and hobbies.html)
+passed validation without errors.
+
+JavaScript code was checked using ESLint and formatted
+using Prettier to maintain code quality and consistency.
+
+## Validation Results
+
+All HTML pages: 
+
+
+![Drawings & Wireframe](/images/validation-check_1.png)
+
+![Drawings & Wireframe](/images/validation-check_2.png)
+
+![Drawings & Wireframe](/images/validation-check_3.png)
+
+
+Main.js 
+
+![Drawings & Wireframe](/images/validation-check_js.png)
+

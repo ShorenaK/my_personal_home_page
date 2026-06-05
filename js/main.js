@@ -1,27 +1,27 @@
 // Select navigation elements
-const navToggle = document.querySelector(".nav-toggle");
-const nav = document.querySelector("nav");
-const navLinks = document.querySelectorAll("nav a");
+const navToggle = document.querySelector('.nav-toggle');
+const nav = document.querySelector('nav');
+const navLinks = document.querySelectorAll('nav a');
 
 // Open and close navigation menu
-navToggle.addEventListener("click", () => {
-  nav.classList.toggle("nav-open");
+navToggle.addEventListener('click', () => {
+  nav.classList.toggle('nav-open');
 });
 
 // Close navigation after clicking a link
 navLinks.forEach((link) => {
-  link.addEventListener("click", () => {
-    nav.classList.remove("nav-open");
+  link.addEventListener('click', () => {
+    nav.classList.remove('nav-open');
   });
 });
 
 // Rotaiont of titles on home page
-const titleText = document.querySelector("#home p");
+const titleText = document.querySelector('#home p');
 
 const titles = [
-  "AWS Cloud Support Engineer",
-  "Software Engineer",
-  "Continuous Learner",
+  'AWS Cloud Support Engineer',
+  'Software Engineer',
+  'Continuous Learner',
 ];
 
 let currentIndex = 0;
