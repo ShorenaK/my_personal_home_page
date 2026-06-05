@@ -141,6 +141,6 @@ The website layout was planned using wireframe sketches before development.
 The wireframes illustrate the structure of the Home, Projects, and Hobbies  
 pages
 
-![Drawings & Wireframe](images/wireFrame_1.png)
+![Drawings & Wireframe](/images/wireFrame_1.png)
 
-![Drawings & Wireframe](images/wireFrame_2.png)
+![Drawings & Wireframe](/images/wireFrame_2.png)
