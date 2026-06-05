@@ -76,8 +76,7 @@ ChatGPT was used as an educational and learning resource throughout the developm
 
 - Drafting portions of the Design Document of creating User Personas and User Stories
 - Assisting with README organization and formatting
-- Providing content suggestions for the AI-generated Hobbies page 3rd page 
-- Explaining some unknow coneptes of HTML, CSS, JavaScript, ES6 Modules, ESLint, and Prettier
+- Providing content suggestions for the AI-generated Hobbies 3rd
 - Providing learning support when challenges were encountered
 
 ---
@@ -95,6 +94,20 @@ Some challenges encountered during development included:
 These challenges provided valuable learning opportunities and strengthened my understanding of front-end web development.
 
 ---
+
+## Project Highlights
+
+Some features and accomplishments that I am particularly proud of include:
+
+- Creating a clean, professional, and easy-to-navigate portfolio design
+- Developing a fully responsive layout that adapts to desktop and mobile devices
+- Organizing content across multiple pages while maintaining a consistent user experience
+- Showcasing AWS cloud computing skills alongside software engineering projects
+- Implementing semantic HTML and accessibility best practices
+- Configuring ESLint and Prettier to maintain code quality and consistency
+- Successfully deploying the website using GitHub Pages
+
+The final portfolio provides a professional online presence that highlights my technical skills, project experience, and personal interests in a clear and organized manner.
 
 ### Developed By **Shorena K. Anzhilov**
 
