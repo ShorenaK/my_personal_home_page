@@ -1,121 +1,115 @@
-
 # Personal Portfolio Website
+
 ## Project Description
 
 This project is a personal portfolio website developed using HTML5, CSS3, and JavaScript (ES6). The website showcases my professional background, technical skills, AWS cloud computing experience, software engineering projects, and personal interests.
 
 The website consists of three pages:
 
-Home Page
-
-![Drawings & Wireframe](/images/wireFrame_1.png)
-
-
-Projects Page
-
-![Drawings & Wireframe](/images/wireFrame_2.png)
-Hobbies Page
-
-
-![Drawings & Wireframe](/images/wireFrame_2.png)
+- Home Page
+- Projects Page
+- Hobbies Page
 
 Visitors can learn more about my experience as an AWS Cloud Support Engineer and Software Engineer, explore technical projects, access my resume, and connect with me through GitHub and LinkedIn.
 
-Live Application
-Website
+---
 
-Personal Portfolio Website
+## Live Application
 
-GitHub Repository
+### Website
 
-GitHub Repository
+[Personal Portfolio Website](https://shorenak.github.io/my_personal_home_page/index.html)
 
-Website Preview
-Home Page
+### GitHub Repository
 
+[GitHub Repository](https://github.com/ShorenaK/my_personal_home_page)
 
+---
 
+## Website Preview
 
-Projects Page
+### Home Page
 
+![Home Page Screenshot](/images/homepage.png)
 
+### Projects Page
 
+![Projects Page Screenshot](/images/projectpage.png)
 
-Hobbies Page
+### Hobbies Page
 
+![Hobbies Page Screenshot](/images/hobbiespage.png)
 
+---
 
+## Technologies Used
 
-Technologies Used
-Front-End
-HTML5
-CSS3
-JavaScript (ES6 Modules)
-Development Tools
-Visual Studio Code
-Git
-GitHub
-Node.js
-npm
-ESLint
-Prettier
-Cloud Technologies
-AWS Cloud Computing
-Amazon EC2
-Amazon S3
-Amazon VPC
-Use of Generative AI
-AI Tool Used
-ChatGPT (OpenAI GPT-5.5)
-How AI Was Used
+### Front-End
+
+- HTML5
+- CSS3
+- JavaScript (ES6 Modules)
+
+### Development Tools
+
+- Visual Studio Code
+- Git
+- GitHub
+- Node.js
+- npm
+- ESLint
+- Prettier
+
+---
+
+## Use of Generative AI:
+
+### AI Tool Used
+
+- ChatGPT (OpenAI GPT-5.5)
+
+### How AI Was Used
 
 ChatGPT was used as an educational and learning resource throughout the development process.
 
-Assistance Provided
-Drafting portions of the Design Document
-Creating User Personas and User Stories
-Assisting with README organization and formatting
-Providing content suggestions for the AI-generated Hobbies page
-Explaining HTML, CSS, JavaScript, ES6 Modules, ESLint, and Prettier
-Assisting with troubleshooting and debugging
-Explaining project requirements and rubric expectations
-Providing learning support when challenges were encountered
+### Assistance Provided
 
-All implementation decisions, testing, deployment, debugging, and final code review were completed by the author.
+- Drafting portions of the Design Document of creating User Personas and User Stories
+- Assisting with README organization and formatting
+- Providing content suggestions for the AI-generated Hobbies page 3rd page 
+- Explaining some unknow coneptes of HTML, CSS, JavaScript, ES6 Modules, ESLint, and Prettier
+- Providing learning support when challenges were encountered
 
-Challenges Encountered
+---
+
+## Challenges Encountered
 
 Some challenges encountered during development included:
 
-Organizing content across multiple pages
-Creating a consistent design throughout the website
-Implementing responsive layouts using Flexbox
-Configuring ESLint and Prettier
-Understanding ES6 Modules and project structure
-Learning semantic HTML and accessibility best practices
-Organizing project screenshots and supporting documentation
+- Organizing content across multiple pages
+- Creating a consistent design throughout the website
+- Implementing responsive layouts using Flexbox
+- Configuring ESLint and Prettier
+- Balancing project development with a demanding work and school schedule
 
 These challenges provided valuable learning opportunities and strengthened my understanding of front-end web development.
 
-Developer
-Developed By
+---
 
-Shorena K. Anzhilov
+### Developed By **Shorena K. Anzhilov**
 
-GitHub
+### GitHub [ShorenaK](https://github.com/ShorenaK)
 
-ShorenaK
+### LinkedIn [Shorena K. Anzhilov](https://www.linkedin.com/in/shorenaanzhilov/)
 
-LinkedIn
+---
 
-Shorena K. Anzhilov
+## Contact:
 
-Contact
+If you have any questions or feedback, please feel free to contact me: [Email Me](mailto:shorenaanzhilov@gmail.com)
 
-If you have any questions or feedback, please feel free to contact me:
+---
 
-shorenaanzhilov@gmail.com
-
-License
+## License
 
 This project is licensed under the MIT License.
