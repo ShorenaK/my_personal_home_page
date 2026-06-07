@@ -68,14 +68,10 @@ Visitors can learn more about my experience as an AWS Cloud Support Engineer and
 
 - ChatGPT (OpenAI GPT-5.5)
 
-### How AI Was Used
-
 ChatGPT was used as an educational and learning resource throughout the development process.
 
 ### Assistance Provided
 
-- Drafting portions of the Design Document of creating User Personas and User Stories
-- Assisting with README organization and formatting
 - Providing content suggestions for the AI-generated Hobbies 3rd
 - Providing learning support when challenges were encountered
 
@@ -85,13 +81,9 @@ ChatGPT was used as an educational and learning resource throughout the developm
 
 Some challenges encountered during development included:
 
-- Organizing content across multiple pages
-- Creating a consistent design throughout the website
 - Implementing responsive layouts using Flexbox
 - Configuring ESLint and Prettier
 - Balancing project development with a demanding work and school schedule
-
-These challenges provided valuable learning opportunities and strengthened my understanding of front-end web development.
 
 ---
 
@@ -102,9 +94,6 @@ Some features and accomplishments that I am particularly proud of include:
 - Creating a clean, professional, and easy-to-navigate portfolio design
 - Developing a fully responsive layout that adapts to desktop and mobile devices
 - Organizing content across multiple pages while maintaining a consistent user experience
-- Showcasing AWS cloud computing skills alongside software engineering projects
-- Implementing semantic HTML and accessibility best practices
-- Configuring ESLint and Prettier to maintain code quality and consistency
 - Successfully deploying the website using GitHub Pages
 
 The final portfolio provides a professional online presence that highlights my technical skills, project experience, and personal interests in a clear and organized manner.
